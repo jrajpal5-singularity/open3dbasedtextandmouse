@@ -2,6 +2,8 @@
 
 # open3d and realsense project
 
+If you find my project helpful or interesting, please give it a star.
+
 This project contains two Python files:
 - `virtualmouseopen3d.py`: Python code to control a 3D mouse using air gestures.
 - `textinpcd.py`: Python code to create a 3D model of a text with a shadow.
