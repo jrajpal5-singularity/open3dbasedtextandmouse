@@ -23,7 +23,7 @@ This Python file contains the code to control a 3D mouse using air gestures. The
 
 ## textinpcd.py
 
-This Python file contains the code to create a 3D model of a text with a shadow. The code uses the Pygame library to create a 3D model of the text and the shadow.
+This Python file contains the code to create a 3D model of a text with a shadow. The code uses the Open3D library to create a 3D model of the text and the shadow.
 
 ### Requirements
 - open3d library
