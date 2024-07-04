@@ -36,3 +36,8 @@ This Python file contains the code to create a 3D model of a text with a shadow.
 
 ## Conclusion
 This project contains two Python files that demonstrate the use of air-based 3D mouse and open3d library for creating a 3D model of text with shadow. Feel free to use and modify the code for your own projects.
+
+![image](https://github.com/jrajpal5-singularity/open3dbasedtextandmouse/assets/17953051/9e05c9de-d6c2-4062-9974-b96ba2d41a21)
+![image](https://github.com/jrajpal5-singularity/open3dbasedtextandmouse/assets/17953051/43a3d8fb-ce71-4102-b920-22369ef4eeda)
+
+
